@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan", "Penjualan\Penjualan.csproj", "{23AA29E1-6902-4522-B10E-1D543DC70A5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Helpers", "0 - Helpers", "{A39F9871-C723-4076-91B8-53C245821E9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Data Layer", "1 - Data Layer", "{79AC3FB9-467D-4894-885C-6C94C047167C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Business Logic", "2 - Business Logic", "{64EAD20C-14A6-4D91-9B37-4703E3DB728D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Workflow", "3 - Workflow", "{9F4DBA6F-82C9-475D-B335-217EF2160B7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Web", "4 - Web", "{E196E85B-1926-45E6-A576-3635EB2902ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Report", "5 - Report", "{67F8F115-F8BA-4206-86EC-391339DDF83A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Service", "6 - Service", "{04514BCE-4A89-4A99-9305-19548DC2DE26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{983B587E-7A06-42BC-883B-D82C2E11402C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan.Database.Context", "Penjualan.Database.Context\Penjualan.Database.Context.csproj", "{B8377607-A652-45D7-AF65-CB480574BBE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan.Providers", "Penjualan.Providers\Penjualan.Providers.csproj", "{829A4029-5268-4402-80E2-08C42D4240BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan.ViewModels", "Penjualan.ViewModels\Penjualan.ViewModels.csproj", "{C660AA82-1F52-4654-A1BF-2FFDDB346351}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan.Api", "Penjualan.Api\Penjualan.Api.csproj", "{8B915A25-6CB9-497E-B23D-AF63A0AC11C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penjualan.Utilities", "Penjualan.Utilities\Penjualan.Utilities.csproj", "{19B733A4-FE6E-4C53-A542-856F1C1D200D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AA29E1-6902-4522-B10E-1D543DC70A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AA29E1-6902-4522-B10E-1D543DC70A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AA29E1-6902-4522-B10E-1D543DC70A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AA29E1-6902-4522-B10E-1D543DC70A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8377607-A652-45D7-AF65-CB480574BBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8377607-A652-45D7-AF65-CB480574BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8377607-A652-45D7-AF65-CB480574BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8377607-A652-45D7-AF65-CB480574BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829A4029-5268-4402-80E2-08C42D4240BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829A4029-5268-4402-80E2-08C42D4240BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829A4029-5268-4402-80E2-08C42D4240BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829A4029-5268-4402-80E2-08C42D4240BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C660AA82-1F52-4654-A1BF-2FFDDB346351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C660AA82-1F52-4654-A1BF-2FFDDB346351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C660AA82-1F52-4654-A1BF-2FFDDB346351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C660AA82-1F52-4654-A1BF-2FFDDB346351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B915A25-6CB9-497E-B23D-AF63A0AC11C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B915A25-6CB9-497E-B23D-AF63A0AC11C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B915A25-6CB9-497E-B23D-AF63A0AC11C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B915A25-6CB9-497E-B23D-AF63A0AC11C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B733A4-FE6E-4C53-A542-856F1C1D200D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B733A4-FE6E-4C53-A542-856F1C1D200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B733A4-FE6E-4C53-A542-856F1C1D200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B733A4-FE6E-4C53-A542-856F1C1D200D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23AA29E1-6902-4522-B10E-1D543DC70A5A} = {E196E85B-1926-45E6-A576-3635EB2902ED}
+		{B8377607-A652-45D7-AF65-CB480574BBE4} = {79AC3FB9-467D-4894-885C-6C94C047167C}
+		{829A4029-5268-4402-80E2-08C42D4240BF} = {64EAD20C-14A6-4D91-9B37-4703E3DB728D}
+		{C660AA82-1F52-4654-A1BF-2FFDDB346351} = {79AC3FB9-467D-4894-885C-6C94C047167C}
+		{8B915A25-6CB9-497E-B23D-AF63A0AC11C4} = {04514BCE-4A89-4A99-9305-19548DC2DE26}
+		{19B733A4-FE6E-4C53-A542-856F1C1D200D} = {A39F9871-C723-4076-91B8-53C245821E9E}
+		{89BF3D7B-3554-45EB-8B7B-5BF4BA3FA700} = {E196E85B-1926-45E6-A576-3635EB2902ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F48EC7-9DB9-4F1E-BA12-ADEB54575905}
+	EndGlobalSection
+EndGlobal

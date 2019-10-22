@@ -1,0 +1,9 @@
+D:\DOTNET\Penjualan\Penjualan.Database.Context\bin\Debug\netstandard2.0\Penjualan.Database.Context.deps.json
+D:\DOTNET\Penjualan\Penjualan.Database.Context\bin\Debug\netstandard2.0\Penjualan.Database.Context.dll
+D:\DOTNET\Penjualan\Penjualan.Database.Context\bin\Debug\netstandard2.0\Penjualan.Database.Context.pdb
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.csprojAssemblyReference.cache
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.csproj.CoreCompileInputs.cache
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.AssemblyInfoInputs.cache
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.AssemblyInfo.cs
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.dll
+D:\DOTNET\Penjualan\Penjualan.Database.Context\obj\Debug\netstandard2.0\Penjualan.Database.Context.pdb

@@ -1,0 +1,14 @@
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.deps.json
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.dll
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csprojAssemblyReference.cache
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csproj.CoreCompileInputs.cache
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.AssemblyInfoInputs.cache
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.AssemblyInfo.cs
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.pdb
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.dll
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.pdb
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csproj.CopyComplete
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml

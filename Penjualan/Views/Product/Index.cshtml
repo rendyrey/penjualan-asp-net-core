@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Create";
+    var product = ViewBag.product;
+}
+
+<p>@ViewBag.product[0].namaProduct</p>
+
+@foreach(var a in product)
+{
+    <p>@a</p>
+}

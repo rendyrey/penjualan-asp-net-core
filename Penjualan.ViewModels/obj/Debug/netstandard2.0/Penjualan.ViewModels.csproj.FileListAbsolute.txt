@@ -1,0 +1,12 @@
+D:\DOTNET\Penjualan\Penjualan.ViewModels\bin\Debug\netstandard2.0\Penjualan.ViewModels.deps.json
+D:\DOTNET\Penjualan\Penjualan.ViewModels\bin\Debug\netstandard2.0\Penjualan.ViewModels.dll
+D:\DOTNET\Penjualan\Penjualan.ViewModels\bin\Debug\netstandard2.0\Penjualan.ViewModels.pdb
+D:\DOTNET\Penjualan\Penjualan.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\DOTNET\Penjualan\Penjualan.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.csprojAssemblyReference.cache
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.csproj.CoreCompileInputs.cache
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.AssemblyInfoInputs.cache
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.AssemblyInfo.cs
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.csproj.CopyComplete
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.dll
+D:\DOTNET\Penjualan\Penjualan.ViewModels\obj\Debug\netstandard2.0\Penjualan.ViewModels.pdb

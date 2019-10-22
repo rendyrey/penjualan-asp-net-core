@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Penjualan.Database.Context\Penjualan.Database.Context.csproj" />
+    <ProjectReference Include="..\Penjualan.ViewModels\Penjualan.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
