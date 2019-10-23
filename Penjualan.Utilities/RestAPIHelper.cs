@@ -89,24 +89,24 @@ namespace Penjualan.Utilities
 
     public class RestAPIHelper<T>
     {
-        public static T Submit(string jsonBody, Method httpMethod, string endpoint, HttpRequest httpRequest)
-        {
+        //public static T Submit(string jsonBody, Method httpMethod, string endpoint, HttpRequest httpRequest)
+        //{
 
-            var requests = new RestRequest(httpMethod);
-            requests.AddHeader("Content-Type", "application/json");
-            requests.AddHeader("Authorization", string.Format("Bearer " + ""));
+        //    var requests = new RestRequest(httpMethod);
+        //    requests.AddHeader("Content-Type", "application/json");
+        //    requests.AddHeader("Authorization", string.Format("Bearer " + ""));
 
-            if (!string.IsNullOrEmpty(jsonBody))
-            {
-                requests.AddParameter("application/json", jsonBody, ParameterType.RequestBody);
-            }
-            var client = new RestClient(endpoint);
-            IRestResponse response = client.Execute(requests);
+        //    if (!string.IsNullOrEmpty(jsonBody))
+        //    {
+        //        requests.AddParameter("application/json", jsonBody, ParameterType.RequestBody);
+        //    }
+        //    var client = new RestClient(endpoint);
+        //    IRestResponse response = client.Execute(requests);
 
-            var result = JsonConvert.DeserializeObject<T>(response.Content);
+        //    var result = JsonConvert.DeserializeObject<T>(response.Content);
 
-            return result;
-        }
+        //    return result;
+        //}
 
         //public static T Submit(string jsonBody, Method httpMethod, string endpoint)
         //{
@@ -127,7 +127,7 @@ namespace Penjualan.Utilities
         //    return result;
         //}
 
-        public static string Submit(string jsonBody, Method httpMethod, string endpoint)
+        public static T Submit(string jsonBody, Method httpMethod, string endpoint)
         {
             var requests = new RestRequest(httpMethod);
             requests.AddHeader("Content-Type", "application/json");
@@ -142,8 +142,8 @@ namespace Penjualan.Utilities
             var client = new RestClient(endpoint);
             IRestResponse response = client.Execute(requests);
 
-            //var result = JsonConvert.DeserializeObject<T>(response.Content);
-            var result = response.Content;
+            var result = JsonConvert.DeserializeObject<T>(response.Content);
+            //var result = response.Content;
             return result;
         }
     }

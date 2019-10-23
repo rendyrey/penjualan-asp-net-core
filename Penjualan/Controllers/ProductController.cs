@@ -17,8 +17,12 @@ namespace Penjualan.Controllers
         public IActionResult Index()
         {
             var endpoint = url + "Get";
-            var data = RestAPIHelper<CustomDataSourceResult<ListProductsViewModel>>.Submit("", Method.GET, endpoint);
-            ViewBag.product = ((dynamic)Newtonsoft.Json.JsonConvert.DeserializeObject(data));
+            //var data = RestAPIHelper<CustomDataSourceResult<ListProductsViewModel>>.Submit("", Method.GET, endpoint);
+            //ViewBag.product = JsonConvert.DeserializeObject(data);
+            var data = RestAPIHelper<object>.Submit("", Method.GET, endpoint);
+            var datamodel = RestAPIHelper<CustomDataSourceResult<ListProductsViewModel>>.Submit("", Method.GET, endpoint);
+            ViewBag.product = data;
+            ViewBag.product2 = datamodel;
             return View();
             //return Ok("HI");
         }
