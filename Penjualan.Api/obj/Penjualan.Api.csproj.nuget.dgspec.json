@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj": {}
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
         "projectName": "Penjualan.Api",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,14 +32,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj"
               },
-              "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
               },
-              "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
         "projectName": "Penjualan.Database.Context",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj",
         "projectName": "Penjualan.Providers",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -191,11 +191,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj"
               },
-              "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
         "projectName": "Penjualan.Utilities",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -298,14 +298,14 @@
         }
       }
     },
-    "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
         "projectName": "Penjualan.ViewModels",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -352,14 +352,14 @@
         }
       }
     },
-    "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj",
         "projectName": "Penjualan",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -380,14 +380,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj"
               },
-              "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
               },
-              "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
-                "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj"
+              "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
+                "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj"
               }
             }
           }

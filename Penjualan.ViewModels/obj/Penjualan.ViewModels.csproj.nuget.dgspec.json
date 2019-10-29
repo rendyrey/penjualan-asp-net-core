@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {}
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
         "projectName": "Penjualan.ViewModels",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\Penjualan.ViewModels.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.ViewModels\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

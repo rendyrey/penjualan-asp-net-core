@@ -1151,11 +1151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
+      "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
       "projectName": "Penjualan.Utilities",
-      "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
+      "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj",
       "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\obj\\",
+      "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

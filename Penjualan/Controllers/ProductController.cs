@@ -19,11 +19,11 @@ namespace Penjualan.Controllers
             var endpoint = url + "Get";
             //var data = RestAPIHelper<CustomDataSourceResult<ListProductsViewModel>>.Submit("", Method.GET, endpoint);
             //ViewBag.product = JsonConvert.DeserializeObject(data);
-            var data = RestAPIHelper<object>.Submit("", Method.GET, endpoint);
-            var datamodel = RestAPIHelper<ListProductsViewModel>.Submit("", Method.GET, endpoint);
-            ViewBag.product = data;
-            ViewBag.product2 = datamodel;
-            return View();
+            var datamodel = RestAPIHelper<List<ListProductsViewModel>>.Submit("", Method.GET, endpoint);
+            var dataobject = RestAPIHelper<object>.Submit("", Method.GET, endpoint);
+            ViewBag.product = dataobject;
+            //ViewBag.product2 = datamodel;
+            return View(datamodel);
             //return Ok("HI");
         }
     }

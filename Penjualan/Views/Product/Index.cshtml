@@ -1,20 +1,26 @@
 ﻿@{
     ViewData["Title"] = "Create";
     var product = ViewBag.product;
-    var product2 = ViewBag.product2;
+    //var product2 = ViewBag.product2;
 }
 
-<p>@ViewBag.product[0].namaProduct</p>
+@model List<Penjualan.ViewModels.Product.ListProductsViewModel>
+
+<p>@*@ViewBag.product[0].namaProduct*@</p>
+@foreach(var item in Model)
+{
+    <p>@item.BrandNama</p>
+}
 
 <br />
 <br />
 
 @foreach (var a in product)
-{
-    <p>@a</p>
-}
+    {
+        <p>@a</p>
+    }
 
-@foreach (var a in product2)
-{
-    <p>@a</p>
-}
+@*@foreach (var a in product2)
+    {
+        <p>@a</p>
+    }*@

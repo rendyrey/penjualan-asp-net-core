@@ -25,3 +25,30 @@ D:\DOTNET\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Views.dll
 D:\DOTNET\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Views.pdb
 D:\DOTNET\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.dll
 D:\DOTNET\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Views.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Views.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Api.deps.json
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Api.runtimeconfig.json
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Api.runtimeconfig.dev.json
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Api.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Api.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Database.Context.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Providers.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Utilities.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.ViewModels.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Providers.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Utilities.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.Database.Context.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\bin\Debug\netcoreapp2.2\Penjualan.ViewModels.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.csprojAssemblyReference.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.csproj.CoreCompileInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.RazorAssemblyInfo.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.RazorAssemblyInfo.cs
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.AssemblyInfoInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.AssemblyInfo.cs
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.RazorTargetAssemblyInfo.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.csproj.CopyComplete
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Api\obj\Debug\netcoreapp2.2\Penjualan.Api.pdb

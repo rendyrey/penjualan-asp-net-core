@@ -12,3 +12,17 @@ D:\DOTNET\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Provi
 D:\DOTNET\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.pdb
 D:\DOTNET\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.ViewModels.dll
 D:\DOTNET\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.ViewModels.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.Providers.deps.json
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.Providers.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.Providers.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.Database.Context.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.ViewModels.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.Database.Context.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\bin\Debug\netstandard2.0\Penjualan.ViewModels.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.csprojAssemblyReference.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.csproj.CoreCompileInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.AssemblyInfoInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.AssemblyInfo.cs
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.csproj.CopyComplete
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Providers\obj\Debug\netstandard2.0\Penjualan.Providers.pdb

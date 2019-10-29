@@ -31,7 +31,6 @@ namespace Penjualan.Api.Controllers
             {
                 var model = new ListProductsViewModel();
                 var product = _productProvider.GetList();
-                
                 return Ok(product);
             }catch(Exception e)
             {

@@ -12,3 +12,17 @@ D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Newtonsoft.Json
 D:\DOTNET\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csproj.CopyComplete
 D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
 D:\DOTNET\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.deps.json
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Penjualan.Utilities.pdb
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csprojAssemblyReference.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csproj.CoreCompileInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.AssemblyInfoInputs.cache
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.AssemblyInfo.cs
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.csproj.CopyComplete
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.dll
+D:\DOTNET\ASP.NET Core\Penjualan\Penjualan.Utilities\obj\Debug\netstandard2.0\Penjualan.Utilities.pdb

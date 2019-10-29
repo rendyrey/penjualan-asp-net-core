@@ -13965,11 +13965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
+      "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
       "projectName": "Penjualan.Api",
-      "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
+      "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\Penjualan.Api.csproj",
       "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Api\\obj\\",
+      "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13990,14 +13990,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
-              "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj"
+            "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj": {
+              "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Providers\\Penjualan.Providers.csproj"
             },
-            "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
-              "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
+            "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj": {
+              "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Utilities\\Penjualan.Utilities.csproj"
             },
-            "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj": {
-              "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan\\Penjualan.csproj"
+            "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj": {
+              "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan\\Penjualan.csproj"
             }
           }
         }

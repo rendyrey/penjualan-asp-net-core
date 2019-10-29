@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {}
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
         "projectName": "Penjualan.Database.Context",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\Penjualan.Database.Context.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Penjualan.Database.Context\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Penjualan.Database.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

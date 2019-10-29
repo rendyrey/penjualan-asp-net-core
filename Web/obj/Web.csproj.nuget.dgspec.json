@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\Penjualan\\Web\\Web.csproj": {}
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Web\\Web.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\Penjualan\\Web\\Web.csproj": {
+    "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\Penjualan\\Web\\Web.csproj",
+        "projectUniqueName": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "D:\\DOTNET\\Penjualan\\Web\\Web.csproj",
+        "projectPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\rendy.reynaldy\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\Penjualan\\Web\\obj\\",
+        "outputPath": "D:\\DOTNET\\ASP.NET Core\\Penjualan\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
